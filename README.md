@@ -1,5 +1,5 @@
 # Recommandations
-Si vous cherchez uniquement les liens, ils sont [là](Just_Links.md)
+Si vous cherchez uniquement les liens, ils sont [là](https://github.com/Flxibit1/Recommandation/blob/master/Just_links.md)
 
 Ici vous trouverez une liste de mes recommandations, gardez en tête qu'il s'agit de propositions; elles ne sont en rien "obligatoires".
 
