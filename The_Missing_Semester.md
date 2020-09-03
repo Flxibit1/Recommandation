@@ -1,4 +1,5 @@
-#[The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+# [The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+
 Il s'agit d'un ensemble de cours destiné à des études de "Computer Science" (Nos études d'ingénieur informaticien).
 Il y a pas mal de trucs très très intéressant.
 C'est essentiellement orienté vers ceux qui font SLAM, mais je pense que les SISR peuvent y piocher 2-3trucs (notamment le cours sur Vim ou le cours sur les "command -line environnement").
