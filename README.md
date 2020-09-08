@@ -21,7 +21,7 @@ Cet ensemble comporte (au milieu des recommandations) des observations et réfle
 ### Les utilitaires
 - [Windows Terminal](Windows_Terminal.md)
 - [Chocolatey](Choco.md)
-- ["Réfléchissez à votre IDE"](IDE.md)
+- ["Réfléchissez à votre IDE"](IDE.md) et [Envisagez peut-être de passer à VIM](VIM.md)
 
 ### Les trucs cons mais rigolos
 - [Oh Shit! Git](OhShitGit.md)
