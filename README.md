@@ -16,7 +16,7 @@ Cet ensemble comporte (au milieu des recommandations) des observations et réfle
 ### Les trucs qui font de vous un meilleur développeur
 - [Hacker News](Hacker_News.md)
 - [HasteBin et Pastebin, les "Bin" en général](Bin.md)
-- [Les gestionnaires de mots de Passe et "I have Been Powned?](Powned.md)
+- [Les gestionnaires de mots de Passe et "I have Been Powned?"](Powned.md)
 
 ### Les utilitaires
 - [Windows Terminal](Windows_Terminal.md)
