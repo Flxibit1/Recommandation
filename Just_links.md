@@ -1,5 +1,3 @@
-Ici vous retrouvez les liens utiles sans mon blabla
-
 ### Here you can find the list of all recommendations:
 
 - [The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
@@ -17,5 +15,7 @@ Ici vous retrouvez les liens utiles sans mon blabla
 - [Code](https://code.visualstudio.com/)
 - [Vim](https://www.vim.org/)
 - [Chocolatey](https://chocolatey.org/)
-
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [TLDR: Legal](https://tldrlegal.com/)
+- [FOSSA](https://fossa.com/)
 
