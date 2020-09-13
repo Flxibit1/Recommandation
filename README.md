@@ -1,5 +1,5 @@
 # Recommandations
-Si vous cherchez uniquement les liens, ils sont [là](https://github.com/Flxibit1/Recommandation/blob/master/Just_links.md)
+Si vous cherchez uniquement les liens, ils sont [là](Just_Links.md)
 
 Ici vous trouverez une liste de mes recommandations, gardez en tête qu'il s'agit de propositions; elles ne sont en rien "obligatoires".
 
@@ -16,13 +16,23 @@ Cet ensemble comporte (au milieu des recommandations) des observations et réfle
 ### Les trucs qui font de vous un meilleur développeur
 - [Hacker News](Hacker_News.md)
 - [HasteBin et Pastebin, les "Bin" en général](Bin.md)
-- [Les gestionnaires de mots de Passe et "I have Been Powned?"](Powned.md)
+- [Les gestionnaires de mots de Passe et "I have Been Powned?](Powned.md)
+
+### L'openSource et compagnie
+- [L'OpenSource c'est quoi?](OpenSource.md) (Attention, y a pas mal de digressions)
+- [OpenSource et les licenses](Licences.md)
 
 ### Les utilitaires
 - [Windows Terminal](Windows_Terminal.md)
 - [Chocolatey](Choco.md)
-- ["Réfléchissez à votre IDE"](IDE.md) et [Envisagez peut-être de passer à VIM](VIM.md)
+- ["Réfléchissez à votre IDE"](IDE.md)
 
 ### Les trucs cons mais rigolos
 - [Oh Shit! Git](OhShitGit.md)
 - [HTTP Status](HTTP_Status.md)
+
+### Les chaînes Youtube en Vrac
+- [LinusTechTips](https://www.youtube.com/user/LinusTechTips)
+- [MKBHD](https://www.youtube.com/user/marquesbrownlee)
+- [Level1Tech](https://www.youtube.com/user/teksyndicate)
+- [JayTwoCents](https://www.youtube.com/user/Jayztwocents)
