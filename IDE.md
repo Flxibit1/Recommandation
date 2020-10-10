@@ -8,13 +8,15 @@ C’est à dire un logiciel (on y reviendra) qui peut être utilisé pour dével
 Un IDE intègre généralement 4 programmes principaux:
 - un éditeur de texte (la page qui va afficher votre fichier de code)
 - un compilateur (le logiciel qui va transformer votre code informatique en langage machine)
-- un débugger (généralement associé au compilateur et qui permet de faire tourner votre programme étape par étape (en suivant en réalité chacune des lignes de votre code source)  - enfin un analyseur de texte (en gros le programme qui rajoute de la couleur sur les mots clés de vos langages (if .. else… par exemple)).
+- un débugger (généralement associé au compilateur et qui permet de faire tourner votre programme étape par étape (en suivant en réalité chacune des lignes de votre code source)  
+- enfin un analyseur de texte (en gros le programme qui rajoute de la couleur sur les mots clés de vos langages (if .. else… par exemple)).
 
-Aujourd’hui un IDE c’est beaucoup plus que ça, ils intègrent des outils de gestion de version (type GIT), des outils de communication collaborative (Slack, Microsoft Teams…), des outils de conception d’interface, de prototypage, de gestion de tests Unitaires…
+Aujourd’hui un IDE c’est beaucoup plus que ça, ils intègrent des outils de gestion de version (type GIT), des outils de communication collaborative (Slack, Microsoft Teams…), des outils de conception d’interface, de prototypage, de gestion de tests Unitaires et parfois même un navigateur internet pour accéder à la documentation…
 L’idée est d’avoir un seul programme capable de tout faire, et que le développeur n’ai jamais besoin de le quitter.
 
 
 Pour citer les plus connus dans cette catégorie, Visual Studio (celui que recommande le CNED pour le C#), Eclipse pour Java, ou encore Code::Blocks pour le C++. Attention, ce sont de très bon outils hein, mais là j’essaye de vous faire prendre conscience d’un truc.
+
 Le résultat de cette agrégation d’outils?
 
 Ces IDE sont devenus au fil du temps des usine à gaz peu performante et assez intimidante pour un néophyte…
@@ -23,9 +25,9 @@ Sur le moment j’ai pas tilté, et puis en y réfléchissant, je me suis rendu 
 Donc je suis parti à la recherche d’autres outils, d’autres IDE plus léger…
 
 J’ai donc écumé le web à la recherche des "10 meilleurs IDE" ou encore des "5 meilleurs IDE de 2020" (sur une recherche effectué en 2019). (Critiquez pas, on les a tous fait ces sites :p)
-Après quelques recherches donc, un nom revenais souvent, les produits [JetBrains](https://www.jetbrains.com/); ils font effectivement de très bon produits, mais une grande partie est payant (et non, si on se respecte on ne "crack"  pas un IDE (pour plein de raisons)) et finalement leurs produits sont assez proches des usines à gaz que peuvent être Eclipse ou Visual Studio (même si ils sont bien plus léger, on est d'accord).
+Après quelques recherches donc, un nom revenais souvent, les produits [JetBrains](https://www.jetbrains.com/); ils font effectivement de très bon produits, mais une grande partie est payante (et non, si on se respecte on ne "crack"  pas un IDE (pour plein de raisons)) et finalement leurs produits sont assez proches des usines à gaz que peuvent être Eclipse ou Visual Studio (même si ils sont bien plus léger, on est d'accord).
 
-Et puis j’ai découvert [Visual Studio Code](https://code.visualstudio.com/), une version lite de Visual Studio (je vais l’appeler Code à partir de maintenant).
+Et puis j’ai découvert [Visual Studio Code](https://code.visualstudio.com/), une version "lite" de Visual Studio (je vais l’appeler Code à partir de maintenant).
 
 Quels sont les avantages de Code par rapport à son grand frère Visual Studio et autres IDE ?
 
