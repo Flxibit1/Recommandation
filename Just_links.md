@@ -18,4 +18,12 @@
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [TLDR: Legal](https://tldrlegal.com/)
 - [FOSSA](https://fossa.com/)
+- [Grid Garden](https://cssgridgarden.com/#fr)
+- [Flexbox Froggy](https://flexboxfroggy.com/#fr)
+- [CodePen.io](https://codepen.io/)
+- [Can I use...](https://caniuse.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Squirrels](https://www.fontsquirrel.com/)
+- [Font Library](https://fontlibrary.org/)
+- [DevFonts](https://devfonts.gafi.dev/)
 
