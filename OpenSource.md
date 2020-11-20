@@ -73,7 +73,7 @@ Ben là, la réponse dépend de vous.
 
 - Mon monologue ne vous pas touché, libre à vous. Jeter quand même un oeil à un peu de code OpenSource; même si vous ne contribuez pas, vous apprendrez forcément des trucs.
 
-Qoi qu'il en soit, vous pourrez découvrir des logiciels OpenSource très sympa à utiliser [ici](https://framalibre.org/) qui sont capable de remplacer pas mal de logiciels propriétaire si on accepte un logiciel une peu moins "sexy".
+Quoi qu'il en soit, vous pourrez découvrir des logiciels OpenSource très sympa à utiliser [ici](https://framalibre.org/) qui sont capable de remplacer pas mal de logiciels propriétaire si on accepte un logiciel une peu moins "sexy".
 
 [^1]: Attention, toutes les entreprises n'adoptent pas toute la même configuration d'équipe, de même que les projets OpenSource n'adoptent pas tous la même forme, calqué sur le modèle d'entreprise. 
 Ces deux structures cherchent juste à développer l'organisation la plus efficace possible afin de maximiser leurs ressources et leur structure peut donc présenter des similitudes.
