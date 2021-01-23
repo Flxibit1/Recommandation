@@ -14,4 +14,4 @@ Dans ce second jeu, vous devez déplacer une grenouille afin de lui faire retrou
 
 Ces deux jeux sont produis par [Codepip](https://codepip.com/) qui propose dans une version payante un ensemble de jeux pour s'entrainer sur des notions de HTML/CSS et JavaScript.
 
-Je n'ai absoluement pas essayé leur version payante (rapport au fait que je déteste les technos web), mais leurs petits jeux semblent bien foutu et cela peut être un raffraichissemennt entre deux cours réberbatifs. 
+Je n'ai absoluement pas essayé leur version payante (rapport au fait que je déteste les technos web), mais leurs petits jeux semblent bien foutu et cela peut être un raffraichissement entre deux cours réberbatifs. 

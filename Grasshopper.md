@@ -1,6 +1,6 @@
 # [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper)
 
-Il s'agit d'une petite application mobile disponible sur Android (je ne sais pas si elle est disponible sur IOS).
+Il s'agit d'une petite application mobile disponible sur Android (Elle semble bien disponible sur [IOs](https://apps.apple.com/us/app/grasshopper-learn-to-code/id1354133284)).
 
 Elle est éditée par Google et a pour but de vous familiariser avec le JavaScript. 
 C'est gratuit, c'est très bien foutu et ça permet de travailler au passage les logiques de programmation.
