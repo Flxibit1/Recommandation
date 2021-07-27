@@ -1,6 +1,7 @@
 # Les gestionnaires de Mots de Passe
 Un gestionnaire de Mot de Passe c'est quoi? 
-C'est un ensemble de service (généralement un site internet, une application et une extension de navigateur), qui vous permettent de sauvegarder "efficacement" vos mots de passe.
+
+C'est un ensemble de services (généralement un site internet, une application et une extension de navigateur), qui vous permettent de sauvegarder "efficacement" vos mots de passe.
 
 Si vous stocker vos mots de passe dans une feuille Excel ou que vous avez un seul mot de passe sur tous vos sites (déjà honte à vous!), ensuite ce genre d'outils est fait pour vous!
 
@@ -9,7 +10,7 @@ Quand vous visitez ensuite cette URL, l'extension de navigateur vous propose gé
 Ils permettent généralement de "générer" de manière aléatoire un mot de passe.
 Le tout est protégé par un mot de passe "maitre" qui vous permet d'accéder à l'application et de lire les mots de passes alors enregistrés. A terme, le but est de ne se souvenir que de ce mot de passe en particulier et de laisse l'application gérer le reste.
 
-Une synchronisation permet alors de retrouver vos mots de passe partout où vous en avez besoin (mobile, un deuxième ordinateur).
+Une synchronisation permet alors de retrouver vos mots de passe partout où vous en avez besoin (mobile, un deuxième ordinateur...).
 La procédure de synchronisation est "sécurisée" car le fichier transmis entre les appareils est crypté et lisible uniquement avec votre mot de passe "maitre".
 
 Certains services proposent également de stocker des "notes sécurisées", c'est à dire un fichier texte que vous pouvez librement éditer (il peut permettre de stocker des codes d'accès à des immeubles par exemple).

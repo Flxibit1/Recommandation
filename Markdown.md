@@ -1,6 +1,6 @@
 # [Markdown](https://fr.wikipedia.org/wiki/Markdown)
 
-Le markdown est un format de fichiers (comme le pdf ou le txt), mais développé pour le web, il facilite notamment la mise en page des documents pour le web (ces recommandations sont écrite en Markdown).
+Le markdown est un format de fichiers (comme le pdf ou le txt), mais développé pour le web. Il facilite notamment la mise en page des documents pour le web (ces recommandations sont écrite en Markdown).
 
 De nombreux sites internet supportent le Markdown, notamment [Github](https://guides.github.com/features/mastering-markdown/).
 

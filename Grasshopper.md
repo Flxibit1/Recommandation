@@ -7,4 +7,6 @@ C'est gratuit, c'est très bien foutu et ça permet de travailler au passage les
 
 L'appli ne fera pas de vous un expert du langage, mais elle vous permet de travailler facilement la syntaxe quand vous êtes loin d'un ordinateur.
 
+Le plus gros avantage que je lui trouve est qu'elle permet de travailler la logique propre à la programmation dès que vous les souhaitez.
+
 Elle est disponible en Anglais et en Français et récupère automatiquement la langue de votre système.

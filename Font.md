@@ -6,7 +6,7 @@ Non? Bon ben tant pis, je vais quand même vous parler de polices d'écritures.
 
 Il y a un truc que j'ai fait il y a quelques mois déjà et qui m'a permis de mieux me concentrer, c'est de changer la police d'écriture de mon IDE.
 
-C'est possible sur tout les IDE et la changer peut vous permettre de mieux travailler (on travaille toujours mieux dans un environnement que l'on choisit).
+C'est possible sur tous les IDE et la changer peut vous permettre de mieux travailler (on travaille toujours mieux dans un environnement que l'on choisit).
 
 Certaines polices d'écritures permettraient même de [mieux apprendre](https://www.konbini.com/fr/tendances-2/sans-forgetica-une-police-decriture-pour-mieux-retenir-vos-textes/) ([la police en question](https://sansforgetica.rmit.edu.au)).
 D'autres pourraient même aider les [dyslexiques](https://www.opendyslexic.org/).
