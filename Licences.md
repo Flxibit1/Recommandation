@@ -1,17 +1,17 @@
 # L'openSource et les licences
 
-Alors, on a déjà parlé d'OpenSource ([ici](OpenSource.md)); mais on a oublié un point très important concernant cette manière de diffuser du logiciel.
+Alors, on a déjà parlé d'OpenSource ([ici](OpenSource.md)); mais on a oublié un point très important concernant cette manière de diffuser du logiciel, la licence.
 
 ## Une licence c'est quoi?
 Lorsque vous utilisez un logiciel, quel qu'il soit, son propriétaire (généralement le créateur) vous accorde une "licence d'utilisation". 
 C'est à dire un droit d'utilisation du logiciel, mais cela ne s'accompagne forcément d'un droit de modification du dit logiciel (Bon je ne suis pas expert en droit du logiciel mais en gros c'est l'idée). 
 
 Ce cas de figure s'applique généralement aux logiciels "commerciaux", c'est à dire ceux que vous achetez dans le commerce (ou vendus aux professionnels (même si là le droit de modification peut être négociable)). 
-C'est à dire que la copie de Windows (ou de MacOS) que vous possédez, vous ne pouvez en modifiez le code à cause de la licence qui vous lie à son propriétaire (Microsoft).
+C'est à dire que la copie de Windows (ou de MacOS) que vous possédez, vous ne pouvez en modifiez le code à cause de la licence qui vous lie à son propriétaire (Microsoft ou Apple).
 (Enfin ça c'est la théorie, on sait tous que dans la pratique...:angel:).
 
 Dans le cas des logiciels OpenSource, les choses sont très différentes, il existe une multitude de licences qui vous permettent de faire (ou pas) une multitude de choses différente.
-Le choix de cette licence peut alors devenir un enjeu stratégique pour le projet, en effet; certaines licences par exemple ne permettent pas d'utiliser le code à des fin commerciales (rendant le code inutilisable en entreprise).
+Le choix de cette licence peut alors devenir un enjeu stratégique pour le projet, en effet; certaines licences par exemple ne permettent pas d'utiliser le code à des fin commerciales (Empêchant alors la vente du dis logiciel par une entreprise).
 
 *Oui, mais en quoi ça m'intéresse moi en tant que développeur?*
 
