@@ -14,11 +14,13 @@ Cet ensemble comporte (au milieu des recommandations) des observations et réfle
 - [Git branching](Git_Branching.md)
 - [Grasshopper](Grasshopper.md)
 - [Le CSS c'est fantastique (ou pas)](CSS.md)
+- [Roadmaps Développeur](Roadmaps.md) 
 
 ### Les trucs qui font de vous un meilleur développeur
 - [Hacker News](Hacker_News.md)
 - [HasteBin et Pastebin, les "Bin" en général](Bin.md)
 - [Les gestionnaires de mots de Passe et "I have Been Powned?](Powned.md)
+- [Dotfiles](Dotfiles.md)
 
 
 ### L'openSource et compagnie
@@ -31,6 +33,7 @@ Cet ensemble comporte (au milieu des recommandations) des observations et réfle
 - ["Réfléchissez à votre IDE"](IDE.md)
 - [CodePen.io](CodePen.md)
 - [CanIuse.com](CanIuse.md)
+- [Templates HTML](HTML_Templates.md)
 
 ### Les trucs cons mais rigolos
 - [Oh Shit! Git](OhShitGit.md)
@@ -39,6 +42,7 @@ Cet ensemble comporte (au milieu des recommandations) des observations et réfle
 
 ### Les autres trucs que je ne sait pas où mettre
 - [Une histoire de Font](Font.md)
+- [FreeForDev](FreeForDev.md)
 
 ### Les chaînes Youtube en Vrac
 - [LinusTechTips](https://www.youtube.com/user/LinusTechTips)

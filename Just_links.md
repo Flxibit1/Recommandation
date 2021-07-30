@@ -26,4 +26,9 @@
 - [Font Squirrels](https://www.fontsquirrel.com/)
 - [Font Library](https://fontlibrary.org/)
 - [DevFonts](https://devfonts.gafi.dev/)
+- [Roadmaps Développeur](Roadmaps.md)
+- [Dotfiles](http://dotfiles.github.io)
+- [FreeForDev](https://free-for.dev/)
+- [Templates HTML](https://html5up.net)
+
 
